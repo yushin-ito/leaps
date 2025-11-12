@@ -5,10 +5,11 @@
 ![commit-activity](https://img.shields.io/github/commit-activity/t/igem-tsukuba/leaps)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
+<br/>
+
 ## 📖 Overview
 In this study, we developed a novel machine learning model named "LEAPS" that enables efficient protein function improvement from limited datasets. Conventional protein engineering requires large-scale experimental data, extensive expertise, and prolonged trial-and-error processes, making research execution heavily dependent on institutional funding and human resources. Consequently, significant barriers remain for student teams and small-scale laboratories attempting to engage in protein engineering. LEAPS substantially reduces these constraints and provides an accessible environment for researchers to perform multi-objective optimization of proteins. This model enables student teams participating in iGEM and researchers with limited resources to undertake functional improvements such as enzymatic activity enhancement and antibody affinity optimization, dramatically expanding research possibilities. This model has the potential to promote data-driven protein engineering and accelerate research and development across all fields of life sciences.
 
-<br/>
 <br/>
 
 ## 📚 Background
@@ -41,7 +42,6 @@ A fundamental difficulty in protein improvement lies in the astronomically large
 As an approach to efficiently explore this vast sequence space, machine learning applications have recently attracted significant attention. Machine learning models are expected to predict the function of unknown sequences or generate sequences with desired functions by learning complex relationships between amino acid sequences and functions from data. This capability holds great potential for achieving multi-objective optimization of proteins. However, many existing models still require large-scale experimental datasets for high-accuracy prediction and design. This "high data requirement" presents a new barrier to entry for student teams and small-scale laboratories attempting to utilize machine learning. Therefore, development of new machine learning methods that can effectively learn from small datasets and enable high-accuracy multi-objective optimization is necessary.
 
 <br/>
-<br/>
 
 ## 💡 Solution
 
@@ -59,7 +59,6 @@ We developed "LEAPS", a unique machine learning method integrating predictive an
 3. Train the generative model on the selected high-function sequences
 4. Return to step 1, where the generative model generates high-function sequences
 
-<br/>
 <br/>
 
 ## 🚀 Usage
