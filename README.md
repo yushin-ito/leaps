@@ -6,7 +6,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## 📖 Overview
-In this study, we developed a novel machine learning model named "LEAPS" that enables efficient protein function improvement from limited datasets. Conventional protein engineering requires large-scale experimental data, extensive expertise, and prolonged trial-and-error processes, making research execution heavily dependent on institutional funding and human resources. Consequently, significant barriers remain for student teams and small-scale laboratories attempting to engage in protein engineering. LEAPS substantially reduces these constraints and provides an accessible environment for researchers to perform multi-objective optimization of proteins. This model enables student teams participating in iGEM and researchers with limited resources to undertake functional improvements such as enzymatic activity enhancement and antibody affinity optimization, dramatically expanding research possibilities. Furthermore, we have developed and publicly released LEAPS as a web application, establishing a platform accessible to the broader research community. This model has the potential to promote data-driven protein engineering and accelerate research and development across all fields of life sciences.
+In this study, we developed a novel machine learning model named "LEAPS" that enables efficient protein function improvement from limited datasets. Conventional protein engineering requires large-scale experimental data, extensive expertise, and prolonged trial-and-error processes, making research execution heavily dependent on institutional funding and human resources. Consequently, significant barriers remain for student teams and small-scale laboratories attempting to engage in protein engineering. LEAPS substantially reduces these constraints and provides an accessible environment for researchers to perform multi-objective optimization of proteins. This model enables student teams participating in iGEM and researchers with limited resources to undertake functional improvements such as enzymatic activity enhancement and antibody affinity optimization, dramatically expanding research possibilities. This model has the potential to promote data-driven protein engineering and accelerate research and development across all fields of life sciences.
 
 <br/>
 <br/>
@@ -15,7 +15,7 @@ In this study, we developed a novel machine learning model named "LEAPS" that en
 
 ### Importance of Protein Function Improvement and Multi-Objective Optimization
 Proteins play a central role in governing biological phenomena at the molecular level. At the same time, they serve as fundamental tools in medical and biological research and are positioned as key components in the emerging fields of synthetic biology and biomanufacturing. Therefore, understanding protein function and engineering proteins for specific purposes represents an extremely important research challenge spanning from basic science to applied development.
-Particularly in practical applications, it is necessary to simultaneously optimize multiple properties rather than a single characteristic, such as enzymatic activity, substrate specificity, and stability. For example, in industrially utilized enzymes, achieving both stability under high-temperature processes and high enzymatic activity directly contributes to the reduction of production costs. In therapeutic antibodies, the combination of high binding affinity to target antigens and thermodynamic stability required for long-term storage and predictable in vivo behavior is essential for ensuring therapeutic efficacy and quality. Thus, multi-objective optimization of proteins—improving multiple properties simultaneously—is indispensable for creating proteins suited to specific purposes.
+Particularly in practical applications, it is necessary to simultaneously optimize multiple properties rather than a single characteristic, such as enzymatic activity, substrate specificity, and stability. For example, in industrially utilized enzymes, achieving both stability under high-temperature processes and high enzymatic activity directly contributes to the reduction of production costs. In therapeutic antibodies, the combination of high binding affinity to target antigens and thermodynamic stability required for long-term storage and predictable in vivo behavior is essential for ensuring therapeutic efficacy and quality. Thus, multi-objective optimization of proteins—improving multiple properties simultaneously-is indispensable for creating proteins suited to specific purposes.
 
 <br/>
 
@@ -98,7 +98,8 @@ pip install -r requirements.txt
 <br/>
 
 > [!NOTE]
-> `bin`に[foldseek](https://github.com/steineggerlab/foldseek)と[plmc](https://github.com/debbiemarkslab/plmc)を配置してください。
+> Place [foldseek](https://github.com/steineggerlab/foldseek) and [plmc](https://github.com/debbiemarkslab/plmc) in the `bin` directory.
+
 
 <br/>
 <br/>
