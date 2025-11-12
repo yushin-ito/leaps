@@ -43,7 +43,7 @@ As an approach to efficiently explore this vast sequence space, machine learning
 <br/>
 <br/>
 
-## 🚀 Solution
+## 💡 Solution
 
 ### Utilization of Protein Language Models (pLM)
 To address this challenge, we focused on Protein Language Models (pLMs). pLMs are based on the same principles as Large Language Models (LLMs) typified by ChatGPT and Gemini. Just as LLMs learn word occurrence patterns and context from vast amounts of text data to intrinsically acquire natural language grammar, pLMs treat protein amino acid sequences as "language." Proteins are polymers (corresponds to sentences) in which 20 types of amino acids (corresponds to words) are linked with a clear direction from N-terminus to C-terminus. By learning from billions of known amino acid sequences, pLMs acquire universal "grammar" for protein viability—the rules governing amino acid combinations and inter-residue interactions.
@@ -62,7 +62,7 @@ We developed "LEAPS", a unique machine learning method integrating predictive an
 <br/>
 <br/>
 
-## 🚀　Usage
+## 🚀 Usage
 
 1. Clone this repository
 
