@@ -1,4 +1,4 @@
-# LEAPS: Language model guided Exploration of Augmented Protein Sequence space
+# LEAPS
 
 [![python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 ![version](https://img.shields.io/badge/version-3.0.0-red.svg)
