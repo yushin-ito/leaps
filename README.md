@@ -1,7 +1,6 @@
 # LEAPS: Language model guided Exploration of Augmented Protein Sequence space
 
 [![python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-
 ![version](https://img.shields.io/badge/version-3.0.0-red.svg)
 ![stars](https://img.shields.io/github/stars/igem-tsukuba/leaps?color=yellow)
 ![commit-activity](https://img.shields.io/github/commit-activity/t/igem-tsukuba/leaps)
