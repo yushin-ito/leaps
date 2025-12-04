@@ -105,6 +105,13 @@ leaps/
 <br/>
 <br/>
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=igem-tsukuba/leaps&type=date&legend=top-left)](https://www.star-history.com/#igem-tsukuba/leaps&type=date&legend=top-left)
+
+<br/>
+<br/>
+
 ## 📜 LICENSE
 
 [MIT LICENSE](LICENSE)
